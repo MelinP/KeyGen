@@ -1,0 +1,15 @@
++---[RSA 3072]----+
+|   .oo=*=+ o+.   |
+|     o.*E.*...   |
+|    o +.+=.o +   |
+|     =.*o+. + o  |
+|    . *+S..  +   |
+|      .+  . .    |
+|        ..       |
+|       .o        |
+|      .+++.      |
++----[SHA256]-----+
+
+
+
+SHA256:icyH0+7z6noFshWGsRrZeRZSnb9lsAmMBEB1/lQTKA8 User@WIN-3PO38ARQAJM
